@@ -1,0 +1,14 @@
+{
+    "id":"A001",
+    "player":{
+        "1":"",
+        "2":""
+    },
+    "playerChoose":{
+        "1":"",
+        "2":""
+    },
+    "status":"waiting",
+    "winner":""
+    
+}
